@@ -1,0 +1,7 @@
+cloner repository 
+git clone url repertory de github du nom du dépôt
+Les 3 commandes de push
+git add
+git commit
+git push
+
