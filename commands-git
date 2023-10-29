@@ -1,7 +1,7 @@
 cloner repository 
-git clone url repertory de github du nom du dépôt
+git clone url repertory de github du nom du dépôt https://github.anne-cecile-desjardin/git-begins.git
 Les 3 commandes de push
-git add .
-git commit
-git push
-git pull
+git add "nom de fichier"
+git commit -m nom "message"
+git push -u origin main
+git pull origin nom de la branche
